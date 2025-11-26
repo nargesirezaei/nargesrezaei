@@ -1,5 +1,3 @@
-# nargesrezaei
-
 ### Hi there 👋 I'm Narges  
 
 💻 Full-stack developer passionate about clean architecture and elegant solutions  
